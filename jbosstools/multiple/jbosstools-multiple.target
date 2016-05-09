@@ -13,7 +13,7 @@
       <repository location="http://download.jboss.org/jbosstools/updates/requirements/orbit/S20160501200945/"/>
 
       <!-- for these IUs we need multiple versions -->
-      <unit id="javax.wsdl" version="1.6.2.v201012040545"/>
+      <unit id="javax.wsdl" version="1.6.2.v201012040545-failFast"/>
       <unit id="javax.wsdl" version="1.5.1.v201012040544"/>
       <unit id="org.jdom" version="1.1.1.v201101151400"/>
       <unit id="org.jdom" version="1.1.1.v201101151400"/>
